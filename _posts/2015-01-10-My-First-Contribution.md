@@ -1,6 +1,6 @@
 ---
-layout:post
-title:My First Contribution
+layout: post
+title: My First Contribution
 ---
 
 Although writing a blog is new to me and I'm not used to it at all, I somehow managed to it as all my teammates cheered me up.
