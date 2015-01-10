@@ -11,8 +11,8 @@ relative_permalinks: true
 # Setup
 title:               Rahul Jain
 tagline:             'Personalized diary'
-description:        
-url:                 http://gearsystems.github.io/rahuljain
+description:         'Rahuls blog that is maintained as a personal diary as a part of EPICS project for review by faculty incharge'
+url:                 http://rahuljain.gearsystems.org/
 paginate:            5
 
 # About/contact
